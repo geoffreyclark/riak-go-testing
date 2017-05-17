@@ -1,2 +1,2 @@
 # riak-go-testing
-
+test
